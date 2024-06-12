@@ -1,0 +1,3 @@
+/home/fx/project/conf24/benchmark/c2python/build/CMakeFiles/clib.dir
+/home/fx/project/conf24/benchmark/c2python/build/CMakeFiles/edit_cache.dir
+/home/fx/project/conf24/benchmark/c2python/build/CMakeFiles/rebuild_cache.dir
