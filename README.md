@@ -3,4 +3,4 @@ The repository maintains the source code for the article titled "Optimizing Atte
 
 Just run `MeAtten/benchmark/sdpa/run_bench_meformer_sdpa.sh`.
 
-If you have any questions, please contact fx_nudt@163. Thanks.
+If you have any questions, please contact fx_nudt@163.com. Thanks.
